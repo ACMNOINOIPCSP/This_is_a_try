@@ -15,5 +15,6 @@ def bubble_sort(list1:int):
             if num_list[j] < num_list[j+1]:
                 num_list[j],num_list[j+1] = num_list[j+1],num_list[j]
     print(num_list)
-    
-bubble_sort([1,39,8,7,5])
+
+INPUT = list(map(int,input().split()))
+selection_sort(INPUT)
