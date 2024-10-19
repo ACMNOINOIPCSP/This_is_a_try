@@ -1,13 +1,14 @@
 #include <iostream>
 #include <cstring>
 #include <cstdio>
+//高精度除法
 using namespace std;
 int a[101],c[101];
 int main(){
     char a1[1001],b1[1001];
     gets(a1);
     int lena,x = 0,lenc,b;
-    b = 13;
+    cin >> b;
     lena = strlen(a1);
     for(int i = 0;i<=lena - 1;++i)
         a[i + 1] = a1[i] - 48;
