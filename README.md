@@ -1,2 +1,6 @@
 # This_is_a_try
-Welcome to correct the mistakes and help me!
+什么是计算机算法？
+每个人都有自己的答案。
+
+算法为解决问题而生。
+感谢github这一平台，我能对许多优秀的算法进行学习。
